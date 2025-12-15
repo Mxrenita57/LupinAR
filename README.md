@@ -17,16 +17,16 @@ Projet synthèse en domaines multimédia par Sophia Figueroa
 
 # Moodboard
 ![Image couverture livre Arsène Lupin](https://i.pinimg.com/736x/a2/11/ec/a211ec7c1345d025a727c31985db022a.jpg)
-! [Personne cagoulée devant un mur et sous une lumière](https://i.pinimg.com/1200x/a4/a3/d0/a4a3d004c58c561e92d79e0e131eec16.jpg)
-! [Pile de journaux avec grosse loupe noir au dessus](https://i.pinimg.com/736x/6d/f6/20/6df620fa20b2acad6729c015c5ea976a.jpg)
-! [Mains avec des gants noirs qui tiennent des colliers de perles blanches](https://i.pinimg.com/736x/4f/50/16/4f5016a7232e24ad2fe43480c23f0cbe.jpg)
-! [Logo Arsène Lupin](https://i.pinimg.com/736x/41/e0/51/41e051228fbca00a630714612e57e3f5.jpg)
-! [Club jazz rempli de personnes](https://i.pinimg.com/736x/1f/a5/d9/1fa5d98c4a78c9241fcb65377e4f9ee3.jpg)
-! [Homme en noir qui marche sur une rue sombre](https://i.pinimg.com/736x/69/62/11/696211b30eb071a14b1a91c1978cd0ae.jpg)
-! [Cadenas de coffre fort qui se fait voler](https://i.pinimg.com/736x/73/b2/35/73b23566e669a7c97c3eb7c242203f53.jpg)
+![Personne cagoulée devant un mur et sous une lumière](https://i.pinimg.com/1200x/a4/a3/d0/a4a3d004c58c561e92d79e0e131eec16.jpg)
+![Pile de journaux avec grosse loupe noir au dessus](https://i.pinimg.com/736x/6d/f6/20/6df620fa20b2acad6729c015c5ea976a.jpg)
+![Mains avec des gants noirs qui tiennent des colliers de perles blanches](https://i.pinimg.com/736x/4f/50/16/4f5016a7232e24ad2fe43480c23f0cbe.jpg)
+![Logo Arsène Lupin](https://i.pinimg.com/736x/41/e0/51/41e051228fbca00a630714612e57e3f5.jpg)
+![Club jazz rempli de personnes](https://i.pinimg.com/736x/1f/a5/d9/1fa5d98c4a78c9241fcb65377e4f9ee3.jpg)
+![Homme en noir qui marche sur une rue sombre](https://i.pinimg.com/736x/69/62/11/696211b30eb071a14b1a91c1978cd0ae.jpg)
+![Cadenas de coffre fort qui se fait voler](https://i.pinimg.com/736x/73/b2/35/73b23566e669a7c97c3eb7c242203f53.jpg)
 
 # Moodboard
-! [Logo Arsène Lupin](https://i.pinimg.com/736x/41/e0/51/41e051228fbca00a630714612e57e3f5.jpg)
+![Logo Arsène Lupin](https://i.pinimg.com/736x/41/e0/51/41e051228fbca00a630714612e57e3f5.jpg)
 Exemples:
 Gentleman Cambrioleur
 Vous avez trouvé un indice!
@@ -66,7 +66,7 @@ Rockwell Condensed
   
 
 # Maquette
-! [Interface application LupinAR](<img width="264" height="375" alt="Image1" src="https://github.com/user-attachments/assets/9410fbd1-73a8-40eb-bf6d-881212e27618" />
+![Interface application LupinAR](<img width="264" height="375" alt="Image1" src="https://github.com/user-attachments/assets/9410fbd1-73a8-40eb-bf6d-881212e27618" />
 )
 
 # Conclusion
