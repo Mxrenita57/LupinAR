@@ -16,7 +16,7 @@ Projet synthèse en domaines multimédia par Sophia Figueroa
 - En quoi le concept répond aux attentes du public-cible: Tu as le choix entre jouer le rôle du détective ou jouer le rôle du cambrioleur, deux expériences uniques et captivantes. Tu peux à tout moment changer de rôle.
 
 # Moodboard
-! [Image couverture livre Arsène Lupin](https://i.pinimg.com/736x/a2/11/ec/a211ec7c1345d025a727c31985db022a.jpg)
+![Image couverture livre Arsène Lupin](https://i.pinimg.com/736x/a2/11/ec/a211ec7c1345d025a727c31985db022a.jpg)
 ! [Personne cagoulée devant un mur et sous une lumière](https://i.pinimg.com/1200x/a4/a3/d0/a4a3d004c58c561e92d79e0e131eec16.jpg)
 ! [Pile de journaux avec grosse loupe noir au dessus](https://i.pinimg.com/736x/6d/f6/20/6df620fa20b2acad6729c015c5ea976a.jpg)
 ! [Mains avec des gants noirs qui tiennent des colliers de perles blanches](https://i.pinimg.com/736x/4f/50/16/4f5016a7232e24ad2fe43480c23f0cbe.jpg)
